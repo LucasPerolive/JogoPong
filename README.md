@@ -1,6 +1,6 @@
 # JogoPong
 <hr>
-<h1>Projeto do jogo Pong em javascript</h1>
+<h2>Projeto do jogo Pong em javascript</h2>
 
 <br>  
   
