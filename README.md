@@ -1,7 +1,14 @@
 # JogoPong
-Projeto do jogo Pong em javascript
+<hr>
+<h1>Projeto do jogo Pong em javascript</h1>
 
-Esse projeto é com base em um curso do Alura de lógica de programação, onde foi realizado a programação de um jogo que simula o ping-pong.
+<br>  
+  
+Esse projeto foi realizado base em um curso do Alura, onde houve a programação de um jogo que simula o ping-pong.
 O mesmo foi programado em JavaScript.
 
+<br>  
+  
+```
 Curso: LÓGICA DE PROGRAMAÇÃO: COMECE EM LÓGICA COM O JOGO PONG E JAVASCRIPT
+```
