@@ -48,8 +48,8 @@ function draw() {
     mostraRaquete(xdo1,ydo1);
     mostraRaquete(xdo2,ydo2);
     movimentaMinhaRaquete();
-    colisaoraquete(xdo1,ydo1);
-    colisaoraquete(xdo2,ydo2);
+    setTimeout(colisaoraquete(xdo1,ydo1), 20);
+    setTimeout(colisaoraquete(xdo2,ydo2), 20);
     oponente();
     incluiPlacar();
     marcaPonto();
@@ -159,13 +159,13 @@ function calculaChanceDeErrar() {
 
 function bolinhaNaoFicaPresa(){
     if (xBolinha - raio < 0){
-    XBolinha = 23
+    xBolinha = 28;
     }
 }
 
 
 function bolinhaNaoFicaPresa(){
     if (xBolinha - raio > 600){
-    XBolinha = 577
+    xBolinha = 577;
     }
 }
